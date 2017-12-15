@@ -1,4 +1,4 @@
-# 用虚拟机安装node.js
+# 在Mac安装node.js
 
 ## 1.下载node的镜像
 
